@@ -15,7 +15,7 @@ pipeline {
                 {
                     steps
                             {
-                                checkout([$class: 'GitSCM', branches: [[name: "master"]],
+                                checkout([$class: 'GitSCM', branches: [[name: "main"]],
                                           wdoGenerateSubmoduleConfigurations: false, extensions: [], submoduleCfg: [], userRemoteConfigs: [
                                         [credentialsId: "exitotest", url: "https://github.com/Andresmaus/exitopipeline.git"]
                                 ]])
