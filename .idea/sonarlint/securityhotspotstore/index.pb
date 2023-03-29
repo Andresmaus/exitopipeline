@@ -16,3 +16,7 @@ Hsrc/main/java/co/com/choucair/certification/app/exito/step/AbrirUrl.java,6\3\6
 Dockerfile,6\6\6651ddff6eb82c840ced7c1dddee15c6e1913dd4
 C
 selenium-4-grid.yml,b\4\b42330ae509903135e8f25e98207c6e113b8b30f
+
+Osrc/test/java/co/com/choucair/certification/app/exito/runners/RunnerDocker.java,5\a\5a6238269b305a751ed655ef176e20eafe0f3dde
+C
+serenity.properties,2\5\25f1bbdc8dba7ca4a4b90251f1ef69621b24a28c

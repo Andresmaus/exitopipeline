@@ -7,9 +7,11 @@ def timestamp = dateFormat.format(date).toString()
 def CORREOS = "sabasmora@gmail.com"
 
 pipeline {
-    agent{
+    /*agent{
         label "${params.agent}"
-    }
+    }*/
+
+    agent any
     stages {
         stage('Obtener Fuentes')
                 {
