@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Verificar el funcionamiento correcto del carrito en la app EXITO" skipped="0" tests="1" time="65.88" timestamp="2022-05-28 08:57:25"><testcase name="Verificar el funcionamiento correcto del carrito"><failure message="The following error occurred: Expected enabled element was not enabled&#10;Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'&#10;System info: host: 'DESKTOP-J3FM157', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'&#10;Driver info: driver.version: unknown" type="net.thucydides.core.webdriver.exceptions.ElementShouldBeEnabledException">The following error occurred: Expected enabled element was not enabled
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-J3FM157', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: unknown</failure><system-err>The following error occurred: Expected enabled element was not enabled
+Build info: version: '3.11.0', revision: 'e59cfb3', time: '2018-03-11T20:26:55.152Z'
+System info: host: 'DESKTOP-J3FM157', ip: '192.168.1.4', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_202'
+Driver info: driver.version: unknown&#13;
+co.com.choucair.certification.app.exito.step.BuscarProducto.agregarCarrito(BuscarProducto.java:23)&#13;
+co.com.choucair.certification.app.exito.definitions.MyStepDefinitions.buscaUnProductoIPhoneYLoAgregaAlCarrito(MyStepDefinitions.java:29)&#13;
+cucumber.runner.Runner.runPickle(Runner.java:80)&#13;
+co.com.choucair.certification.app.exito.runners.RunnerFeatures.testRunner(RunnerFeatures.java:33)&#13;
+</system-err></testcase></testsuite>
